@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying Systems Analysis and Development Student at UTFPR
+- 🔭 I’m currently studying Systems Analysis and Development Student at IFPR
 
